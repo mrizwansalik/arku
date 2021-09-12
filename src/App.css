@@ -13,21 +13,11 @@
 }
 .above__tabs{
   background-color: #ccc;
-  width: 100%;
-  display: flex;
-  justify-content: space-between;
-  padding: 15px ;
-  margin-bottom: 20px;
-  border-radius: 5px;
 }
 .bg__change{
-  background-color: blueviolet;
-  /* padding: 15px 100px; */
-  width: 33%;
-  margin: -14px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  /* background-color: blueviolet; */
+  /* width: 33%; */
+  padding: 0 50px;
   border-bottom-right-radius: 50px;
   
   border-top-right-radius: 50px;
